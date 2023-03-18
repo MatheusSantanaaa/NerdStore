@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3A//Y4Zh9GBYJF57BYduxqo4n1MJ1MrSfqZhTvhBWEA=",
+  "Hash": "Ay6W/lN4Cz49Ds1veSU7Z2e7eJKYSMJdtesg0puzzL8=",
   "Source": "NerdStore.WebApp.MVC",
   "BasePath": "_content/NerdStore.WebApp.MVC",
   "Mode": "Default",
@@ -1103,40 +1103,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estudo\\DesenvolvedorIO\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\camiseta1.jpg",
-      "SourceId": "NerdStore.WebApp.MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estudo\\DesenvolvedorIO\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\",
-      "BasePath": "_content/NerdStore.WebApp.MVC",
-      "RelativePath": "Images/camiseta1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\camiseta1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estudo\\DesenvolvedorIO\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\camiseta2.jpg",
-      "SourceId": "NerdStore.WebApp.MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estudo\\DesenvolvedorIO\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\",
-      "BasePath": "_content/NerdStore.WebApp.MVC",
-      "RelativePath": "Images/camiseta2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\camiseta2.jpg"
     },
     {
       "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estudo\\DesenvolvedorIO\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\camiseta3.jpg",
