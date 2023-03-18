@@ -283,6 +283,11 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\N
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\NerdStore.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\NerdStore.WebApp.MVC.RazorAssemblyInfo.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\NerdStore.WebApp.MVC.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.NerdStore.WebApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.NerdStore.WebApp.MVC.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NerdStore.WebApp.MVC.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NerdStore.WebApp.MVC.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
@@ -294,8 +299,3 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\N
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\NerdStore.WebApp.MVC.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\NerdStore.WebApp.MVC.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\ref\NerdStore.WebApp.MVC.dll
-C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.NerdStore.WebApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.NerdStore.WebApp.MVC.props
-C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NerdStore.WebApp.MVC.props
-C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NerdStore.WebApp.MVC.props
-C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
