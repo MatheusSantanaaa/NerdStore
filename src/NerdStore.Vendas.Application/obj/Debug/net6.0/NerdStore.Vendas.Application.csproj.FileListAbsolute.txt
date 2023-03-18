@@ -1,0 +1,17 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Vendas.Application.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Vendas.Application.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Vendas.Application.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Vendas.Domain.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\net6.0\NerdStore.Vendas.Domain.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\refint\NerdStore.Vendas.Application.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\NerdStore.Vendas.Application.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\net6.0\ref\NerdStore.Vendas.Application.dll

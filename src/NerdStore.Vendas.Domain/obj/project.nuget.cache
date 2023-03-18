@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cu2GMCKVQJAOCmEzOu7KknliPNdWo0YCpGsvQQ+dHlqwGRgu9Xblw7VEnbifBM51kNlIlEIcovgi3PuAXq8/SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estudo\\DesenvolvedorIO\\NerdStore\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\mediatr\\10.0.0\\mediatr.10.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\mediatr.contracts\\1.0.0\\mediatr.contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Pagamentos.Business.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Pagamentos.Business.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\refint\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\NerdStore.Pagamentos.AntiCorruption.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\ref\NerdStore.Pagamentos.AntiCorruption.dll

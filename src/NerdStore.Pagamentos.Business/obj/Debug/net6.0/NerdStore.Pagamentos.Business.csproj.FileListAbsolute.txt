@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Pagamentos.Business.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Pagamentos.Business.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Pagamentos.Business.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\refint\NerdStore.Pagamentos.Business.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudo\DesenvolvedorIO\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\ref\NerdStore.Pagamentos.Business.dll
